@@ -1,0 +1,6 @@
+*.dSYM
+pikchr
+pikchr.out
+lemon
+darkmode.html
+out.html
